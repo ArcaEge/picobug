@@ -11,6 +11,6 @@ An RP2040-based devboard with an integrated picoprobe debugger
 - Pin-compatible with the original Pico
 - 16MB flash (instead of the default 2MB)**
 
-* Use GPIO16 and 17 for UART instead of the default GPIO0 and 1
+*Use GPIO16 and 17 for UART instead of the default GPIO0 and 1
 
-** Only the main Pico has 16MB flash, the debugger has 2MB.
+**Only the main Pico has 16MB flash, the debugger has 2MB.
